@@ -26,12 +26,4 @@ Uma ferramenta web para criptografia e descriptografia de textos desenvolvida co
 - Design responsivo
 - Interface intuitiva e amigável
 
-## 🚀 Como Usar
 
-### Pré-requisitos
-- Navegador moderno (Chrome, Firefox, Edge)
-
-### Instalação
-```bash
-git clone https://github.com/camylla-ops/Challenge-ONE-L-gica-de-Programa-o-Decodificador-de-texto.git
-cd Challenge-ONE-L-gica-de-Programa-o-Decodificador-de-texto
